@@ -1,0 +1,5 @@
+{
+  "token": "your_bot_token_here",
+  "id": "your_telegram_chat_id_here",
+  "host": "your_server_url_here"
+}
